@@ -6,3 +6,8 @@ We will use the following tools to explore various physics principles displayed 
 --jupyter notebook v 6.4.12
 --pandas v 1.5.3
 --matplotlib 
+
+
+
+Regression Analysis Resources
+https://www.edureka.co/blog/least-square-regression/
